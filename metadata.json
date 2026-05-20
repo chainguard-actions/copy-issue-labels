@@ -1,7 +1,0 @@
-{
-  "owner": "michalvankodev",
-  "name": "copy-issue-labels",
-  "visibility": "internal",
-  "description": "Copy labels from linkend issues",
-  "block_publish": false
-}
